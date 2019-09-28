@@ -14,6 +14,6 @@ class App < Sinatra::Base
  end
 
 get '/favorite-song' do
-"My favourite song is (Sittin'On) The Dock of the Bay by Otis Redding."
+"My favorite song is (Sittin'On) The Dock of the Bay by Otis Redding."
  end
 end
